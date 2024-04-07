@@ -80,15 +80,8 @@ To learn more about React Native, take a look at the following resources:
 
 
 
-#  _____________________________________________________
+#  Feliciano Francisco Candieiro
 
-[![Andres dos Santos](https://media.dev.to/cdn-cgi/image/width=50,height=50,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F482278%2F0365a0b9-779c-472f-8f5f-2e3395497de4.jpeg)](https://dev.to/andresdosantos)
-
-[Andres dos Santos](https://dev.to/andresdosantos)
-
-Posted on 5 de out. de 2020
-
-![img](https://dev.to/assets/sparkle-heart-5f9bee3767e18deb1bb725290cb151c25234768a0e9a2bd39370c382d02920cf.svg)3![img](https://dev.to/assets/multi-unicorn-b44d6f8c23cdd00964192bedc38af3e82463978aa611b4365bd33a0f1f4f3e97.svg)2
 
 # Como criar um projeto React Native com TypeScript
 
