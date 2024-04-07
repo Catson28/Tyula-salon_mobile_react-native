@@ -151,35 +151,3 @@ $ yarn remove -g react-native-cli
 ```
 $ npx react-native init FirstAppWithReactNativeAndTS --template react-native-template-typescript 
 ```
-
-
-
-Beleza Dev's espero que vocês tenham gostado desse primeiro post, fico por aqui e até a próxima.
-
-## Top comments (0)
-
-Subscribe
-
-![pic](https://media.dev.to/cdn-cgi/image/width=256,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png)
-
-[Code of Conduct](https://dev.to/code-of-conduct) • [Report abuse](https://dev.to/report-abuse)
-
-[![profile](https://media.dev.to/cdn-cgi/image/width=64,height=64,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F7412%2F255b473d-659f-4668-b287-7895ee4a5edc.png)Arm](https://dev.to/armdevs)PROMOTED
-
-
-
-[![Image of Arm event](https://res.cloudinary.com/practicaldev/image/fetch/s--50E_OCJP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_100%2Cw_775/https://i.imgur.com/vlc4oYK.png)](https://events.devhubtv.arm.com/ruthamos?utm_source=devto&utm_medium=display&utm_content=banner_static_speaker-blue_join&utm_campaign=mk24_developer_armtv_2023_thirdparty_mediabuy_na)
-
-## [How Developers Can Use Creativity to Level Up Their Skills](https://events.devhubtv.arm.com/ruthamos?utm_source=devto&utm_medium=display&utm_content=banner_static_speaker-blue_join&utm_campaign=mk24_developer_armtv_2023_thirdparty_mediabuy_na)
-
-🧒🏽 Tap into your child-inspired creativity.
-🤝 Embrace fearless problem-solving.
-💡 Create ground-breaking solutions.
-🔑 Level up your design and development skills.
-🏆 Learn from an award-winning engineer and innovator.
-
-[Register Now](https://events.devhubtv.arm.com/ruthamos?utm_source=devto&utm_medium=display&utm_content=banner_static_speaker-blue_join&utm_campaign=mk24_developer_armtv_2023_thirdparty_mediabuy_na)
-
-## Read next
-
-[![dm8ry profile image](https://media.dev.to/cdn-cgi/image/width=100,height=100,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F928458%2F76bb4163-4c01-4eb0-8c4f-838d2089f9fa.jpeg)How to check if the PostgreSQL tables of the same structure have identical data using aggregated hash and md5?Dmitry Romanoff - Apr 5](https://dev.to/dm8ry/how-to-check-if-the-postgresql-tables-of-the-same-structure-have-identical-data-using-aggregated-hash-and-md5-4pnp)[![puppetdevx profile image](https://media.dev.to/cdn-cgi/image/width=100,height=100,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F807059%2F56b1a215-fafe-4ee2-a36e-461e05ad3a39.png)Updating modules to Puppet 8Puppet Developer Experience - Apr 5](https://dev.to/puppet/updating-modules-to-puppet-8-58h3)[![eusoudiogo profile image](https://media.dev.to/cdn-cgi/image/width=100,height=100,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1396099%2Ff1f8be59-68a5-49a9-9451-677cbd792a13.png)Acelerando o processo de design no Figma com o plugin html.to.designdiogo marques - Apr 5](https://dev.to/somosguix/acelerando-o-processo-de-design-no-figma-com-o-plugin-htmltodesign-5g0f)[![xafero profile image](https://media.dev.to/cdn-cgi/image/width=100,height=100,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1408956%2F588f5a12-1834-4914-89f8-190b8fb4404a.png)Generating C# code programmaticallyxafero - Apr 6](https://dev.to/xafero/generating-c-code-programmatically-5981)
